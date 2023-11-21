@@ -1,0 +1,39 @@
+{
+  "name": "lighthouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joao Pedro",
+  "license": "MIT",
+  "dependencies": {
+    "bullseye": "git+ssh://git@github.com:cangjie-champagne/bullseye#master",
+    "commander": "^11.0.0",
+    "calendar": "git+ssh://git@github.com:cangjie-champagne/calendar#master",
+    "camping": "git+ssh://git@github.com:cangjie-champagne/camping#master",
+    "christmas-tree": "git+ssh://git@github.com:cangjie-champagne/christmas-tree#master",
+    "compass": "git+ssh://git@github.com:cangjie-champagne/compass#master",
+    "eagle": "git+ssh://git@github.com:cangjie-champagne/eagle#master",
+    "fire-extinguisher": "git+ssh://git@github.com:cangjie-champagne/fire-extinguisher#master",
+    "flashlight": "git+ssh://git@github.com:cangjie-champagne/flashlight#master",
+    "gas-station": "git+ssh://git@github.com:cangjie-champagne/gas-station#master",
+    "guitar": "git+ssh://git@github.com:cangjie-champagne/guitar#master",
+    "joystick": "git+ssh://git@github.com:cangjie-champagne/joystick#master",
+    "magnet": "git+ssh://git@github.com:cangjie-champagne/magnet#master",
+    "pepper-spray": "git+ssh://git@github.com:cangjie-champagne/pepper-spray#master",
+    "placard": "git+ssh://git@github.com:cangjie-champagne/placard#master",
+    "snowflake": "git+ssh://git@github.com:cangjie-champagne/snowflake#master",
+    "sunflower": "git+ssh://git@github.com:cangjie-champagne/sunflower#master",
+    "sunglasses": "git+ssh://git@github.com:cangjie-champagne/sunglasses#master",
+    "taxi-cab": "git+ssh://git@github.com:cangjie-champagne/taxi-cab#master",
+    "telephone": "git+ssh://git@github.com:cangjie-champagne/telephone#master",
+    "tennis": "git+ssh://git@github.com:cangjie-champagne/tennis#master",
+    "tent": "git+ssh://git@github.com:cangjie-champagne/tent#master",
+    "trash-can": "git+ssh://git@github.com:cangjie-champagne/trash-can#master",
+    "toolbox": "git+ssh://git@github.com:cangjie-champagne/toolbox#master",
+    "umbrella": "git+ssh://git@github.com:cangjie-champagne/umbrella#master",
+    "watch": "git+ssh://git@github.com:cangjie-champagne/watch#master"
+  }
+}
