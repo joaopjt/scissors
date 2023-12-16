@@ -1,4 +1,4 @@
-class Champagne {
+class Scissors {
   constructor(string, d = false) {
     this.debug = d;
     this.phrase = string || '';
@@ -6,4 +6,4 @@ class Champagne {
   }
 }
 
-module.exports.Champagne = Champagne;
+module.exports.Scissors = Scissors;
